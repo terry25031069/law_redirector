@@ -1,0 +1,7 @@
+{
+    "name": "Law Redirector",
+    "version": "1.0",
+    "description": "Quickly redirect to certain article by typing keywords.",
+    "manifest_version": 1,
+    "permission": []
+}
